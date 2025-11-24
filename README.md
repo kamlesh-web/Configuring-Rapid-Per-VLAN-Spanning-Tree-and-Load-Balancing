@@ -1,0 +1,2 @@
+# Configuring-Rapid-Per-VLAN-Spanning-Tree-and-Load-Balancing
+Rapid Per-VLAN Spanning Tree Plus, is a network protocol that creates a separate, high-speed spanning tree for each VLAN on a switch to prevent loops while allowing for load balancing. By running individual instances for each VLAN, it ensures that topology changes in one VLAN don't disrupt others it speeds up recovery time after a network failure.
